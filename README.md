@@ -3,7 +3,7 @@
 ZIP PASSWORD IS:
 amfbot
 
-<h4>AMF Bot V1.0.5</h4>
+<h4>AMF Bot V1.0.6</h4>
 
 AMF Bot is a bot that automatically performs tasks on addmefast.com to collect free points.
 
@@ -15,7 +15,9 @@ Currently AMFBot works with the following networks:</br>
 -Twitter</br>
 -Tiktok</br>
 -SoundCloud (New)</br>
+-Pinterest (New)</br>
 -More coming in next version</br>
+-Chrome browser extension will be available in next release (May-June 2023)
 
 <h4><u>How to use:</u></h4>
 -Download from official source: https://github.com/0x133T/AddMeFast-Bot/archive/refs/heads/main.zip</br>
