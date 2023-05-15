@@ -3,7 +3,7 @@
 ZIP PASSWORD IS:
 amfbot
 
-<h4>AMF Bot V1.0.6</h4>
+<h4>AMF Bot V1.0.7</h4>
 
 AMF Bot is a bot that automatically performs tasks on addmefast.com to collect free points.
 
@@ -16,8 +16,10 @@ Currently AMFBot works with the following networks:</br>
 -Tiktok</br>
 -SoundCloud (New)</br>
 -Pinterest (New)</br>
+-VK (New)</br>
+-Twitch (New)</br>
 -More coming in next version</br>
--Chrome browser extension will be available in next release (May-June 2023)
+-Chrome browser extension will be available in next release (June-July 2023)
 
 <h4><u>How to use:</u></h4>
 -Download from official source: https://github.com/0x133T/AddMeFast-Bot/archive/refs/heads/main.zip</br>
@@ -30,7 +32,7 @@ ZIP PASSWORD IS: amfbot
 -Hit start and sign in. Make sure you're signed in to each network account.</br>
 -The bot will take random breaks and perform actions with human-like delays.</br>
 -Not recommended to collect more than 2500-3000 points per day to avoid being banned by AddMeFast.</br></br>
-<img src="https://i.imgur.com/oLQ3XLl.png">
+<img src="https://i.imgur.com/7XRFgDA.png">
 *If some actions are not counting and the bot executed them, it is an issue with AddMeFast - it is not a bot issue.</br>
 -To solve:</br>
 -Log out from network with issue.</br>
